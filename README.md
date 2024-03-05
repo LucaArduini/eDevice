@@ -6,3 +6,6 @@ Lavoro di gruppo realizzato dagli studenti: [Luca Arduini](https://github.com/Lu
 <p align="center">
   <img src="https://github.com/LucaArduini/eDevice/blob/main/File%20Accessori/logo%20eDevice%202.jpg" alt="eDevice_logo" height="90" />
 </p>
+
+Progettazione di un **database relazionale** su DBMS Oracle MySQL. Il database è finalizzato alla gestione dei dati del sistema informativo dell'azienda eDevice, un'importante impresa specializzata nella produzione, vendita, riparazione, ricondizionamento e smaltimento di apparecchiature elettroniche multimarca.<br>
+Inoltre, il database offre all'amministratore una serie di operazioni e funzionalità avanzate di data analytics.
