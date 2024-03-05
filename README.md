@@ -4,5 +4,5 @@ Lavoro di gruppo realizzato dagli studenti: [Luca Arduini](https://github.com/Lu
 # eDevice
 
 <p align="center">
-  <img src="https://github.com/LucaArduini/BeatBuddy/blob/main/BeatBuddy/src/main/resources/static/img/logo.png" alt="eDevice_logo" width="200" />
+  <img src="https://github.com/LucaArduini/eDevice/blob/main/File%20Accessori/logo%20eDevice%202.jpg" alt="eDevice_logo" height="90" />
 </p>
